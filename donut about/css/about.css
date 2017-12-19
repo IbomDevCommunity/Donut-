@@ -1,0 +1,53 @@
+/* General css */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'raleway', sans-serif;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+/* ========= header ========*/
+
+.header {
+    background-image: url ("./images/aboutbackground.png");
+    background-color: #7F50FF;
+    height:100%;
+}
+
+.header img {
+    padding-left: 80px;
+    width: 115%;
+    padding-top: 400px;
+}
+
+.header h1 {
+    padding-top: 120px;
+    padding-left: 50px;
+    color: #ffffff;
+    font-size: 70px;
+
+}
+.header p {
+    padding-top: 30px;
+    padding-left: 50px;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+/* ===== BIo =====*/
+
+.bio {
+    padding-top: 70px; 
+}
+
+.bio p {
+    color: #7F50FF;
+    font-size: 30px;
+    font-weight: 1px;
+}
+
+/* ====== BIO IMAGES ===== */
